@@ -1,5 +1,11 @@
 div{
     background-color: #ffffff;
     color: #111111;
+    text-align: center;
+}
+
+img{
+    width: 360px;
+    height: auto;
 }
 
