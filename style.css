@@ -22,13 +22,22 @@ body{
 }
 
 .cover-image{
-    width: 480px;
+    width: 320px;
 }
 
 .content{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
+    gap: 16px;
+}
+
+.right{
+    flex-grow: 1;
+}
+
+.left{
+    min-width: 280px;
 }
 
 
