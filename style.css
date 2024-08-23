@@ -1,4 +1,4 @@
-div{
+body{
     background-color: #ffffff;
     color: #111111;
     text-align: center;
@@ -32,4 +32,9 @@ ul{
 
 ol{
     padding: 20px;
+}
+
+h1{
+    background-color: #c76E00;
+    color: #ffffff;
 }
