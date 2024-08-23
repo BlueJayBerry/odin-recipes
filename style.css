@@ -21,6 +21,10 @@ body{
     flex: 1 0 0;
 }
 
+.cover-image{
+    width: 480px;
+}
+
 .content{
     display: flex;
     justify-content: space-evenly;
