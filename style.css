@@ -17,4 +17,15 @@ div{
 a{
     color: #c76E00;
     font-size: 12;
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+ol{
+    padding: 20px;
 }
